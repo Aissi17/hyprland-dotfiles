@@ -1,0 +1,42 @@
+[
+    {
+        "key": "general:border_size",
+        "value": 3
+    },
+    {
+        "key": "general:no_border_on_floating",
+        "value": false
+    },
+    {
+        "key": "general:gaps_in",
+        "value": 3
+    },
+    {
+        "key": "general:gaps_out",
+        "value": 7
+    },
+    {
+        "key": "general:gaps_workspaces",
+        "value": 0
+    },
+    {
+        "key": "general:hover_icon_on_border",
+        "value": true
+    },
+    {
+        "key": "decoration:active_opacity",
+        "value": 1.0
+    },
+    {
+        "key": "decoration:rounding",
+        "value": 10
+    },
+    {
+        "key": "decoration:inactive_opacity",
+        "value": 0.9
+    },
+    {
+        "key": "decoration:blur:size",
+        "value": 6
+    }
+]
